@@ -1,4 +1,1 @@
-﻿  main.cpp
-C:\Users\roman\OneDrive - FH OOe\CGB_Grundlagen der Computergrafik und Bildverarbeitung\Uebung\Hausuebung2\exercise2\exercise2\main.cpp(454,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
-C:\Users\roman\OneDrive - FH OOe\CGB_Grundlagen der Computergrafik und Bildverarbeitung\Uebung\Hausuebung2\exercise2\exercise2\main.cpp(517,38): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-  exercise2.vcxproj -> C:\Users\roman\OneDrive - FH OOe\CGB_Grundlagen der Computergrafik und Bildverarbeitung\Uebung\Hausuebung2\exercise2\x64\Debug\exercise2.exe
+﻿  exercise2.vcxproj -> C:\Users\Roman KH\OneDrive - FH OOe\CGB_Grundlagen der Computergrafik und Bildverarbeitung\Uebung\01_CGB_homeworks\Hausuebung2\exercise2\x64\Debug\exercise2.exe
